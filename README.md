@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @khanabid20
-- 👀 I’m interested in Programming/Coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on python
-- 📫 How to reach me khanabid.ak92@gmail.com
+- ⚙️ Professionally a DevOps Engineer
+- 👀 Though I’m interested in Programming/Coding
+- 🌱 Also I’m currently learning Python
+- 💞️ And I’m looking to collaborate on python
+- 📫 If you want to reach me - khanabid.ak92@gmail.com
 
 ```
        _     _     _    _    _                 
