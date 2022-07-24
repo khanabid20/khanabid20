@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @khanabid20
-- ⚙️ Professionally a DevOps Engineer
-- 👀 Though I’m interested in Programming/Coding
-- 🌱 Also I’m currently learning Python
-- 💞️ And I’m looking to collaborate on python
-- 📫 If you want to reach me - khanabid.ak92@gmail.com
+- 👋 Hi, I’m Abid Khan
+- ⚙️ Professionally a Sr DevOps Engineer
+- 🌱 I have great exposure to DevOps Culture and also SDLC.
+- 👀 My interests are specially in Programming/Coding, Automation, Troubleshooting and also Marvel(why not!!)
+- 📫 You can reach me out via gmail or linkedin
+       - E: khanabid.ak92@gmail.com
+       - L: linkedin.com/in/khanabid20
 
 ```
        _     _     _    _    _                 
